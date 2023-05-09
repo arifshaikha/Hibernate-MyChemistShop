@@ -25,7 +25,7 @@ public class Main {
 			System.out.println("6. To updae Price of Medicine.");
 			System.out.println("7. To updae Stock of Medicine.");
 			System.out.println("8. To Place an order");
-			System.out.println("00. To Exit");
+			System.out.println("0. To Exit");
 			int ch=sc.nextInt();
 			
 			
